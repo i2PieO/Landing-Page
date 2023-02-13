@@ -7,3 +7,8 @@ Was fun. 9/9 would do it again.
 
 ## About 
 Created a landing page for the Odin Project. The landing page utilizes flex to display elements on the page.
+
+## Demonstrated skills:
+HTML
+CSS
+Flexbox
